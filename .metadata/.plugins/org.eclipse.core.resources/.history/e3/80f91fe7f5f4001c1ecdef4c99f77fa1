@@ -1,0 +1,23 @@
+package javaDemoProject;
+
+public class SampleTest {
+	
+	int x = 30;
+	int y = 45;
+	int z = 55;
+
+	public static void main(String[] args) {
+		SampleTest obj = new SampleTest();
+		obj.methodTest();
+		System.out.println("print deduction" + obj);
+	}
+	public void methodTest() {
+		int m = 100;
+		int n = 150;
+		int t = m-n;
+		
+	}
+	public void methodTest2() {
+		
+	}
+}

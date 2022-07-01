@@ -1,0 +1,14 @@
+package javaDemoProject;
+
+public class SampleTest {
+	
+	int x = 30;
+	int y = 45;
+
+	public static void main(String[] args) {
+		System.out.println("Hello dear, How are you doing today?");
+	}
+	public void ClassLesson() {
+		
+	}
+}

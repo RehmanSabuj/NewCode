@@ -1,0 +1,13 @@
+package javaDemoProject;
+
+public class ParentClass {
+	int x = 6;
+	int y = 8;
+	
+	public static void main(String []args) {
+	}
+	
+	public void firstMethod() {
+	int z = x + y;
+	System.out.println(z);
+}}

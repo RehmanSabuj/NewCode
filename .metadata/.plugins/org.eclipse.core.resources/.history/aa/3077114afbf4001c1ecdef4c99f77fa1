@@ -1,0 +1,32 @@
+package javaDemoProject;
+
+public class SampleTest {
+	
+	int x = 30;
+	int y = 45;
+	int z = 55;
+	String k = "weather is cold today";
+
+	public static void main(String[] args) {
+		SampleTest obj = new SampleTest();
+		obj.methodTest();
+		obj.methodTest2();
+	}
+	
+	public void methodTest() {
+		int m = 100;
+		int n = 150;
+		int t = n-m;
+		int q = m - z;
+		System.out.println("The sum of two numbers are: " + t);
+		System.out.println("The sum of two numbers are: " + q);
+		
+	}
+	public void methodTest2() {
+		int i = 70;
+		int j = 80;
+		int h = i + j;
+		System.out.println("The sum of two numbers are: " + h);
+		System.out.println(k);
+	}
+}

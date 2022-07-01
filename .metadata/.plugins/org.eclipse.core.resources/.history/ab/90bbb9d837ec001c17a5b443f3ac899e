@@ -1,0 +1,23 @@
+
+public class FristDemo {
+	
+	int x = 100;
+	int y = 200;
+	int z = 500;
+
+
+	public static void main(String[] args) {
+		int x = 100;
+		int y = 200;
+		int z = 500;
+
+		System.out.println("Hello dear, It's sunshine today.");
+		System.out.println(x + y);
+
+	}
+public void demo1() {
+	int x = 26;
+	int y = 18;
+	
+}
+}

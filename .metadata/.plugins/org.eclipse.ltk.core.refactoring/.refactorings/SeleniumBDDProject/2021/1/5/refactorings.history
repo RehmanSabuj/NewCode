@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;SetpDefinitions.LoginDemo&apos; to &apos;LoginDemofor&apos;&#x0D;&#x0A;- Original project: &apos;SeleniumBDDProject&apos;&#x0D;&#x0A;- Original element: &apos;SetpDefinitions.LoginDemo&apos;&#x0D;&#x0A;- Renamed element: &apos;SetpDefinitions.LoginDemofor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LoginDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;SetpDefinitions{LoginDemo.java[LoginDemo" matchStrategy="1" name="LoginDemofor" qualified="false" references="true" similarDeclarations="false" stamp="1611965669056" textual="false" version="1.0"/>
+</session>

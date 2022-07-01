@@ -1,0 +1,12 @@
+package javaDemoProject;
+
+public class InheritanceClass {
+	int x = 6;
+	int y = 8;
+	
+	public static void main(String []args) {
+	}
+	
+	public void firstMethod() {}
+	int z = x + y;
+}

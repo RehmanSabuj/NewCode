@@ -1,0 +1,16 @@
+package javaDemoProject;
+
+public class DemoClassPractice1 {
+	
+	int x = 30;
+	int y = 45;
+
+	public static void main(String[] args) {
+		DemoClassPractice1 demo = new DemoClassPractice1();
+		System.out.println("Hello dear");
+	}
+	public void ClassLesson() {
+		
+	}
+
+}
