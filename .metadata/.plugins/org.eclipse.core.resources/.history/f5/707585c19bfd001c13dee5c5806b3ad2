@@ -22,7 +22,6 @@ public class FristJavaLesson {
 		System.out.println("print the number " + c);
 		System.out.println("print the name: " + Shaiyan);
 		System.out.println("print the number " + r);
-		System.out.println("testing new branch");
 	}
 	
 }
